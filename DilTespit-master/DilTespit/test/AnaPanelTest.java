@@ -13,7 +13,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author Mergehez
+ * @author payhez
  */
 public class AnaPanelTest {
     
